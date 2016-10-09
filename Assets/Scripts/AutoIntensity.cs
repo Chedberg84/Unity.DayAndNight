@@ -5,12 +5,12 @@ public class AutoIntensity : MonoBehaviour {
 
 	public Gradient nightDayColor;
 
-	public float maxIntensity = 3f;
-	public float minIntensity = 0f;
+	public float maxIntensity = 2.0f;
+	public float minIntensity = 0.2f;
 	public float minPoint = -0.2f;
 
-	public float maxAmbient = 1f;
-	public float minAmbient = 0f;
+	public float maxAmbient = 2f;
+	public float minAmbient = 1f;
 	public float minAmbientPoint = -0.2f;
 
 
